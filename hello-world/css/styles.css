@@ -1,0 +1,112 @@
+body { 
+background-color:"#ff087f";
+}
+
+div.header{
+	color:white;
+	
+	font:normal 300px Helvetica;
+	margin:120px 0px 30px 0px;
+	text-align: center;
+
+	opacity: 1
+}
+div.header:hover
+{opacity:0.5;}
+
+div.header1{
+	color:white;
+	
+	font:normal 50px Helvetica;
+	margin:120px 0px 30px 0px;
+	text-align: center;
+
+	opacity: 1
+}
+div.header1:hover
+{opacity:0.5;}
+
+div.header2{
+	color:white;
+	
+	font:normal 70px Helvetica;
+	margin:120px 0px 30px 0px;
+	text-align: center;
+
+	opacity: 1
+}
+div.header2:hover
+{opacity:0.5;}
+
+
+div.header3{
+	color:white;
+	
+	font:normal 200px Helvetica;
+	margin:120px 0px 30px 0px;
+	text-align: center;
+
+	opacity: 1
+}
+
+div.header3:hover
+{opacity:0.5;}
+
+div.header4{
+	color:white;
+	
+	font:normal 20px Georgia;
+	margin:120px 0px 30px 0px;
+	text-align: center;
+
+	opacity: 1
+}
+
+div.header4:hover
+{opacity:0.5;}
+
+div.header5{
+	color:white;
+	
+	font:normal 100px Georgia;
+	font-style:italic;
+	margin:120px 0px 30px 0px;
+	text-align: center;
+
+	opacity: 1
+}
+
+div.header5:hover
+{opacity:0.5;}
+
+
+div.header6{
+	color:#e393b0;
+	
+	font:normal 100px times;
+	font-style:italic;
+	margin:120px 0px 30px 0px;
+	text-align: center;
+
+	opacity: 1
+}
+
+div.header6:hover
+{opacity:0.5;}
+
+
+
+
+}
+div.img:hover
+{opacity:0.5;}
+div.class p {color: blue;
+font:normal 24px Helvetica;
+margin:0px 0px 0px 0px}
+
+div.paragraph{
+	color:white;
+	font:normal 14px Helvetica;
+	text-align:left;
+
+}
