@@ -1,0 +1,162 @@
+body{
+	margin:auto;
+	padding:0;
+	font-size: 15px;
+	font-family: arial, helvetica, sans-serif;
+}
+
+div{vertical-align:top;}
+
+h1, h2,h3, h4, h5, h6 {
+	font-size:15px;
+	margin:auto;
+}
+
+a:link{}
+a:visited{}
+a: hover{}
+a:active{}
+ul{
+	margin:auto;
+}
+
+
+
+
+.background{
+	width:768px;
+	height:630px;
+	background:#b0ab96;
+	margin:auto;
+	
+
+}
+.r{
+	width:156px;
+	height:320px;
+	background:#b0ab96;
+	padding: 50px
+	
+}
+.r1{
+	width:412px;
+	height:110px;
+	background:#495157;
+	margin:-420px 0px 0px 256px ;
+	padding:50px;
+}
+
+.r2{
+	width:156px;
+	height:320px;
+	background:#202c28;
+	margin:0px 0px 0px 512px;
+	padding:50px;
+}
+
+.r3{
+	width:412px;
+	height:110px;
+	background:#b6b7b0;
+	margin:-210px 0px 0px 0px;
+	padding:50px;
+
+}
+
+.r4{
+	width:156px;
+	height:110px;
+	background:#40443c;
+	margin:-420px 0px 0px 469px;
+	padding:50px;
+	position:fixed;
+
+}
+
+.black1{
+	width:156px;
+	height:0px;
+	margin:0px 50px 0px 0px;
+	padding:10px 0px 0px 0px;
+
+}
+.black2{
+	width:10px;
+	height:300px;
+	margin:0px 50px 0px 73px;
+}
+
+.grey{
+	width:156px;
+	height:310px;
+	background:#cfcfcb;
+	margin:0px 0px 0px 0px;
+	padding:0px 0px 0px 0px;
+}
+
+.black3{
+	width:392px;
+	height:90px;
+	background:#1d2a26;
+	margin:0px;
+	padding:10px;
+}
+
+.grey2{
+	width:57px;
+	height:90px;
+	background:#495157;
+	margin:0px 0px 0px 0px;
+	
+}
+.grey3{
+	width:57px;
+	height:90px;
+	background:#495157;
+	margin:-90px 10px 0px 67px;
+}
+.grey4{
+	width:57px;
+	height:90px;
+	background:#495157;
+	margin:-90px 10px 0px 134px;
+}
+.grey5{
+	width:57px;
+	height:90px;
+	background:#495157;
+	margin:-90px 10px 0px 201px;
+}
+.grey6{
+	width:57px;
+	height:90px;
+	background:#495157;
+	margin:-90px 10px 0px 268px;
+}
+.grey7{
+	width:57px;
+	height:90px;
+	background:#495157;
+	margin:-90px 10px 0px 335px;
+}
+.color1{
+	background:#1b2723;
+}
+.color2{
+	background:#d6d6d2;
+}
+.white{
+	width:392px;
+	height:10px;
+	background:#d4d4d0;
+	margin:0px 0px 10px 0px;
+}
+.circle{
+	width:110px;
+	height:110px;
+	border-radius: 110px;
+	
+	background:#d8d8d8;
+	margin:0px 23px 0px 23px;
+	
+}
