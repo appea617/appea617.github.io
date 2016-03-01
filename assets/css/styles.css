@@ -1,28 +1,37 @@
-* { box-sizing: border-box; }
+* { 
+	box-sizing: border-box; 
+}
+
+.hidden {
+	display:none;
+}
 
 
-body{
+body {
 	margin:0;
 	padding:0;
 	font-size: 15px;
 	font-family: arial, helvetica, sans-serif;
+	background-color: white;
 }
 
-div{vertical-align:top;}
+div{
+	vertical-align:top;
+}
 
 h1, h2,h3, h4, h5, h6 {
 	font-size:15px;
 	margin:0;
 }
 
-a:link{}
-a:visited{}
-a: hover{}
-a:active{}
+a {
+	text-decoration: none;
+}
+
 ul{
 	margin:0;
 }
-.container{
+.container {
 	width: 960px;
 	background:#f1f1f1;
 	font-size: 0;
