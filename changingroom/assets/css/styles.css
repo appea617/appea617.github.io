@@ -316,7 +316,7 @@ a {
 
 .commentthick{
 	
-    
+    opacity:1;
     position:center;
 	float:top;
 	width:320px;
@@ -336,6 +336,19 @@ a {
   -o-transform:rotateX(180deg);
   -ms-transform:rotateX(180deg);
 }
+
+
+.commentthick:hover{
+	-webkit-transform:rotateX(0deg);
+  -moz-transform:rotateX(0deg);
+  -o-transform:rotateX(0deg);
+  -ms-transform:rotateX(0deg);
+	float:bottom;
+	text-align:bottom;
+	background:black;
+	color:white;
+}
+
 
 .commentneutral{
 	position:center;
@@ -373,6 +386,16 @@ a {
   -ms-transform:rotateX(180deg);
 
 
+}
+.commentskinny:hover{
+	-webkit-transform:rotateX(0deg);
+  -moz-transform:rotateX(0deg);
+  -o-transform:rotateX(0deg);
+  -ms-transform:rotateX(0deg);
+	float:bottom;
+	text-align:bottom;
+	background:black;
+	color:white;
 }
 
 .pricereflect{
