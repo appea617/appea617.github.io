@@ -16,6 +16,7 @@ a {
 }
 
 .c {
+
 	width:4650px;
 	height:300px;
 
@@ -34,7 +35,6 @@ a {
 	width:33.3%;
 	float:left;
 }
-
 
 
 .header {
@@ -240,6 +240,7 @@ a {
 
 
 .img {
+
 	width:50px;
 	float:left;
 	margin:200px 0px 0px 0px;
@@ -320,7 +321,7 @@ a {
     position:center;
 	float:top;
 	width:320px;
-	height:200px;
+	height:300px;
 	
 	font:arial;
 	font-style:bold;
@@ -329,7 +330,7 @@ a {
 	text-align:right;
 
 	font-size:40px;
-	margin:100px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
 
  -webkit-transform:rotateX(180deg);
   -moz-transform:rotateX(180deg);
@@ -347,6 +348,7 @@ a {
 	text-align:bottom;
 	background:black;
 	color:white;
+	margin:100px 0px 0px 0px;
 }
 
 
