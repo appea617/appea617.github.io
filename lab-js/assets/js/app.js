@@ -13,7 +13,7 @@ console.log(winner);
 
 //functions 
 function print_text(text) {
-	$(".value").html(text);
+	$('.value').html(text);
 }
 
 
