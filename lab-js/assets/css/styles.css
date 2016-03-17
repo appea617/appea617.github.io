@@ -1,5 +1,39 @@
-.value {
-	font-size:50px;
-	background:#ff0;
 
+.value {
+	font-family: helvetica;
+	font-size:50px;
+	color:white;
+	width:400px;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	text-decoration: underline;
+	font-style:italic;
+
+}
+.header{
+	font-family: helvetica;
+	font-size:70px;
+	color:white;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+.shopping {
+	font-family: helvetica;
+	font-size:30px;
+	color:black;
+	width:400px;
+	background-color:white;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:100px;
+	font-weight:bold;
+
+
+}
+.shopping:hover {
+	opacity:0.6;
 }
