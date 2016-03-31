@@ -19,12 +19,46 @@
 	position:absolute;
 }
 .vertical{
-	width:30px;
+	width:1px;
 	height:200px;
 }
 .horizontal{
-	width:150px;
-	height:30px;
+	width:50px;
+	height:1px;
+}
+.tiltedleft{
+	width:1px;
+	height:200px;
+    -moz-transform: skew(-22.5deg);
+ 	-webkit-transform: skew(-22.5deg);
+  	transform: skew(-22.5deg);
+}
+
+.tiltedright{
+	width:1px;
+	height:200px;
+    -moz-transform: skew(22.5deg);
+ 	-webkit-transform: skew(22.5deg);
+  	transform: skew(22.5deg);
+}
+.tiltedleftshort{
+	width:1px;
+	height:100px;
+    -moz-transform: skew(-22.5deg);
+ 	-webkit-transform: skew(-22.5deg);
+  	transform: skew(-22.5deg);
+}
+
+.tiltedrightshort{
+	width:1px;
+	height:100px;
+    -moz-transform: skew(22.5deg);
+ 	-webkit-transform: skew(22.5deg);
+  	transform: skew(22.5deg);
+}
+.horizontalbig{
+	width:105px;
+	height:1px;
 }
 
 .black{background:#000}
@@ -46,15 +80,48 @@
 	right:0px;
 	
 }
+.a-right1 {
+	
+	top:0px;
+	right:-42px;
+	
+}
 .a-top{
 	
 	top:0px;
 	left:0px;
 }
+.a-center{
+	
+	right:20;
+	left:150;
+}
+.a-bottom{
+	
+	top:200px;
+	left:0px;
+}
+
+.a-bottomleft{
+	
+	top:200px;
+	left:65px;
+}
 .a-mid {
 	
-	top:85px;
+	top:110px;
 	left:0px;
+}
+.a-left {
+	
+	top:0px;
+	left:107px;
+	
+}
+.a-midright {
+	
+	top:115px;
+	left:100px;
 }
 
 /* Position
