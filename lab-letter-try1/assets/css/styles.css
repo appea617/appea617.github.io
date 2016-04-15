@@ -1,8 +1,11 @@
 body {
-	margin:0;
+	margin:100px 0px 0px 0px;
 	padding:0;
 	font-size:0;
-	background-image: url("fourmoreyears.jpg");
+	background-color:#ff0080;
+	background-repeat: no-repeat;
+
+    
 }
 
 .word-wrapper{
@@ -12,7 +15,7 @@ body {
 
 .letter-wrapper {
 	display:inline-block;
-	margin:0 15px 60px 15px;
+	margin:0 0px 60px 0px;
 }
 
 .letter {

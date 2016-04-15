@@ -3,23 +3,89 @@
 .word-wrapper{
 	display:inline-block;
 	margin-right:60px;
+	cursor:pointer;
 }
 
 .letter-wrapper {
 	display:inline-block;
-	margin:0 15px 60px 15px;
+	margin:0 0px 60px 0px;
 }
 
+.letter-wrapper0 {
+	display:inline-block;
+	margin:0 0px 60px 20px;
+}
+
+.letter-wrapper1 {
+	display:inline-block;
+	margin:0 0px 60px 0px;
+}
+
+.letter-wrapper2 {
+	display:inline-block;
+	margin:0px 0px 60px -20px;
+}
+
+.letter-wrapper3 {
+	display:inline-block;
+	margin:0 0px 60px 100px;
+}
+
+.letter-wrapper4 {
+	display:inline-block;
+	margin:0 0px 60px -100px;
+}
+.letter-wrapper5 {
+	display:inline-block;
+	margin:0 0px 60px -200px;
+}
+
+.letter-wrapper6 {
+	display:inline-block;
+	margin:0 0px 60px -170px;
+}
+.letter-wrapper7 {
+	display:inline-block;
+	margin:0 0px 60px 40px;
+}
+.letter-wrapper8 {
+	display:inline-block;
+	margin:0 0px 60px -80px;
+}
+.letter-wrapper9 {
+	display:inline-block;
+	margin:0 0px 60px 80px;
+}
+.letter-wrapper10 {
+	display:inline-block;
+	margin:0 0px 60px -40px;
+}
+
+.letter-wrapper11 {
+	display:inline-block;
+	margin:0 0px 60px -70px;
+}
+
+
+
 .letter {
-	width:150px;
+	width:0px;
 	height:200px;
 	position:relative;
 }
 .bar{
 	position:absolute;
 }
-.vertical{
+.width{
 	width:1px;
+}
+
+.height {
+	height:1px;
+}
+
+.vertical{
+	
 	height:200px;
 }
 .verticalshort{
@@ -28,10 +94,10 @@
 }
 .horizontal{
 	width:50px;
-	height:1px;
+	
+	
 }
 .tiltedleft{
-	width:1px;
 	height:200px;
     -moz-transform: skew(-22.5deg);
  	-webkit-transform: skew(-22.5deg);
@@ -39,29 +105,31 @@
 }
 
 .tiltedright{
-	width:1px;
+	
 	height:200px;
     -moz-transform: skew(22.5deg);
  	-webkit-transform: skew(22.5deg);
   	transform: skew(22.5deg);
 }
 .tiltedleftshort{
-	width:1px;
+	
 	height:100px;
     -moz-transform: skew(-22.5deg);
  	-webkit-transform: skew(-22.5deg);
   	transform: skew(-22.5deg);
 }
 
+
 .tiltedrightshort{
-	width:1px;
+	
 	height:100px;
     -moz-transform: skew(22.5deg);
  	-webkit-transform: skew(22.5deg);
   	transform: skew(22.5deg);
 }
+
 .tiltedleftshort1{
-	width:1px;
+	
 	height:50px;
     -moz-transform: skew(-22.5deg);
  	-webkit-transform: skew(-22.5deg);
@@ -69,7 +137,7 @@
 }
 
 .tiltedrightshort1{
-	width:1px;
+	
 	height:50px;
     -moz-transform: skew(22.5deg);
  	-webkit-transform: skew(22.5deg);
@@ -77,10 +145,10 @@
 }
 .horizontalbig{
 	width:105px;
-	height:1px;
+	
 }
 
-.black{background:#000}
+.black{background:white}
 .blue{background:blue;}
 .red{background:#f00;}
 .yellow{background:#ff0}
@@ -212,16 +280,3 @@
 	top:150px;
 	right:-20px;
 }
-/* Position
-absolute:;
-relative:;
-
-fixed:;
-
-
-
-
-
-
-
-*/

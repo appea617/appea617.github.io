@@ -1,0 +1,144 @@
+* { box-sizing: border-box; }
+body {
+	font-size: 0px;
+	padding: 0px;
+	margin: 100px 0px 0px 0px;
+
+}
+
+html, body {
+	height: 100%;
+}
+
+.header {
+	position:fixed;
+	overflow:hidden;
+	margin-bottom:100px;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100px;
+	background:#ff0080;
+	color:white;
+	font:arial;
+	font-style:bold;
+	font-weight:bold;
+	font-size:0px;
+	text-align:left;
+	z-index:1;
+}
+img{
+	margin:0px;
+}
+
+a { color: #000; text-decoration: none;}
+ul{ margin: 0; padding: 0; list-style: none;}
+li {display: inline-block;}
+
+.slay{
+	font-size: 200px;
+	color: #fff;
+	background: #000;
+	height: 100%;
+	width: 100%;
+	position: fixed;
+}
+
+.slay span {
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
+.close {
+	position:absolute;
+	top: 25px;
+	right: 25px;
+	width: 85px;
+	height: 85px;
+	background-color: #ccc;
+	cursor: pointer;
+}
+
+.content {
+	background: #f1f1f1;
+}
+
+.nav-item {
+	color: #000;
+	width:100%;
+	height:250px;
+	padding:10px;
+	
+	
+	font-size: 20px;
+	
+	cursor: pointer;
+}
+
+.active {
+	background: #000;
+	color: #fff;
+}
+
+.column {
+	width: 50%;
+	height: 100%;
+	display: inline-block;
+	padding: 40px;
+	vertical-align: top;
+}
+
+.green{
+	background: #b8e986;
+}
+
+.blue{
+	background: #4a90e2;
+}
+
+.red{
+	background: #d0021d;
+}
+.pink{
+	background: #ff0080;
+}
+.sollewitt{
+	background-image: url('../img/sol-lewitt.jpg');
+}
+
+
+.hide{
+	display: none;
+}
+.grey1{
+	background-color:#d2dfff;
+}
+.grey2{
+	background-color:#91bfff;
+}
+.grey3{
+	background-color:#7fbfff;
+}
+.grey4{
+	background-color:#d2dfff;
+}
+.grey5{
+	background-color:#2177ee;
+}
+.grey6{
+	background-color:#0077ee;
+}
+.grey7{
+	background-color:#d2dfff;
+}
+.grey8{
+	background-color:#0077ee;
+}
+.grey9{
+	background-color:#7fbfff;
+}
+.grey10{
+	background-color:#d2dfff;
+}
