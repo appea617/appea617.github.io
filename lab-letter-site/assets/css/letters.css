@@ -16,6 +16,30 @@ img{
 	margin:5px auto 0 500px;
 	position:absolute;
 }
+.width{
+	width:1px;
+}
+.width2{
+	width:2px;
+}
+.width3{
+	width:4px;
+}
+.width4{
+	width:6px;
+}
+.height{
+	height:1px;
+}
+.height2{
+height:2px;
+}
+.height3{
+	height:4px;
+}
+.height4{
+	height:6px;
+}
 
 
 .small{
@@ -81,19 +105,19 @@ img{
 	position:absolute;
 }
 .vertical{
-	width:1px;
+	
 	height:200px;
 }
 .verticalshort{
-	width:1px;
+	
 	height:100px;
 }
 .horizontal{
 	width:50px;
-	height:1px;
+	
 }
 .tiltedleft{
-	width:1px;
+	
 	height:200px;
     -moz-transform: skew(-22.5deg);
  	-webkit-transform: skew(-22.5deg);
@@ -101,14 +125,14 @@ img{
 }
 
 .tiltedright{
-	width:1px;
+	
 	height:200px;
     -moz-transform: skew(22.5deg);
  	-webkit-transform: skew(22.5deg);
   	transform: skew(22.5deg);
 }
 .tiltedleftshort{
-	width:1px;
+	
 	height:100px;
     -moz-transform: skew(-22.5deg);
  	-webkit-transform: skew(-22.5deg);
@@ -116,14 +140,14 @@ img{
 }
 
 .tiltedrightshort{
-	width:1px;
+	
 	height:100px;
     -moz-transform: skew(22.5deg);
  	-webkit-transform: skew(22.5deg);
   	transform: skew(22.5deg);
 }
 .tiltedleftshort1{
-	width:1px;
+	
 	height:50px;
     -moz-transform: skew(-22.5deg);
  	-webkit-transform: skew(-22.5deg);
@@ -131,7 +155,7 @@ img{
 }
 
 .tiltedrightshort1{
-	width:1px;
+	
 	height:50px;
     -moz-transform: skew(22.5deg);
  	-webkit-transform: skew(22.5deg);
@@ -139,10 +163,10 @@ img{
 }
 .horizontalbig{
 	width:105px;
-	height:1px;
+	
 }
 
-.black{background:white}
+.black{background:black}
 .blue{background:#00aced;}
 .red{background:#f00;}
 .yellow{background:#ff0}
