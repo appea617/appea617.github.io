@@ -263,6 +263,25 @@ input[type=button] {
 
 
 }
+.button2{
+	width: 50%;
+    height:60px;
+    line-height:70px;
+    text-align:left;
+    margin-left:20%;
+    font-family:helvetica;
+    font-weight:bold;
+    text-decoration:none;
+    color:black;
+    font-size:20px;
+    background-color:#969696;
+    border:1px solid;
+    border-color:#969696;
+
+    display:inline-block;
+
+
+}
 .bar2{
     width: 50%;
     height:40px;
@@ -366,4 +385,18 @@ input[type=button] {
 	width:100%;
 	margin-top:0;
 }
+#share-buttons img {
+width: 35px;
+margin-top:-200px;
+
+display: inline;
+-webkit-filter: grayscale(100%);
+filter: grayscale(100%);
+}
+a{
+	text-decoration:none;
+}
+ 
+
+
 
