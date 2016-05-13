@@ -50,7 +50,7 @@ div.header2:hover
 	font-size: 0px;
 
 	color: black;
-	background: #636161;
+	background: black;
 	height: 10000000px;
 	width: 100%;
 	margin-top:100px;
@@ -64,7 +64,7 @@ div.header2:hover
 	font-size: 0px;
 
 	color: black;
-	background: #636161;
+	background: black;
 	height: 10000000px;
 	width: 100%;
 	margin-top:100px;
@@ -209,7 +209,7 @@ input[type=button] {
     color:white;
     text-align:left;
     font-size:40px;
-    background-color:#636161;
+    background-color:black;
     display:inline-block;
 
 }
@@ -238,8 +238,7 @@ input[type=button] {
     background-color:#777777;
     display:inline-block;
     color:white;
-    border:1px solid;
-    border-color:white;
+    margin-bottom:5px;
 
 
 
@@ -324,24 +323,7 @@ input[type=button] {
 	font-weight:normal;
 	
 }
-.stripe1{
-	width:1px;
-	height:100%;
-	background-color:#ff0080;
-	display:inline;
-	position:absolute;
-	margin-left:10%;
-}
-.stripe2{
-	width:100%;
-	height:1px;
-	background-color:#ff0080;
-	display:block;
-	margin-top:40px;
-	margin-bottom:10px;
-	position:absolute;
-	
-}
+
 .headerslay{
 	background-color:#ff0080;
 	height:100px;

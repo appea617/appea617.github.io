@@ -8,7 +8,41 @@ shares=0;
 var objects = ['I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I'
                
                ];
-var objects1 = [' loathe',' hate',' am repusled by',' am repulsed by',' am disgusted by',' cringe at the thought of',' absolutely hate',' loathe',' hate',' am repusled by',' am repulsed by',' am disgusted by',' cringe at the thought of','absolutely hate',' loathe',' hate',' am repusled by',' am repulsed by',' am disgusted by',' cringe at the thought of','absolutely hate',' loathe',' hate',' am repusled by',' am repulsed by',' am disgusted by',' cringe at the thought of','absolutely hate',' loathe',' hate',' am repusled by',' am repulsed by',' am disgusted by',' cringe at the thought of',
+var objects1 = [' loathe',
+' hate',
+' am repusled by',
+' want to puke when I see',
+' am disgusted by',
+' cringe at the thought of',
+' absolutely hate',
+' loathe',
+' detest',
+' am repusled by',
+' want to puke when I see',
+' am disgusted by',
+' cringe at the thought of',
+' detest',
+' loathe',
+' hate',
+' am repusled by',
+' want to puke when I see',
+' am disgusted by',
+' cringe at the thought of',
+' absolutely hate',
+' loathe',
+' detest',
+' am repusled by',
+' want to puke when I see',
+' am disgusted by',
+' cringe at the thought of',
+' detest',
+' loathe',
+' hate',
+' am repusled by',
+' want to puke when I see',
+' am disgusted by',
+' cringe at the thought of',
+' am repulsed by'
                ];
 var objects2 = [' your', ' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',
 
@@ -21,36 +55,35 @@ var objects3 = [' ugly hair',
 ' dumb opinions',
 ' pointless posts', 
 ' small popularity', 
-' small mounts of likes', 
+' small amount of likes', 
 ' fat body',
 ' out of shape body',
 ' ignorance', 
 ' narcissism', 
 ' need to share everything',
-' ugly hair',
-' ugly face',
-' stupidity',
+' bad skin',
+' messy hair',
+' uneducated thoughts',
 ' dumb opinions',
 ' pointless posts', 
 ' small popularity', 
-' small mounts of likes', 
-' fat body',
-' out of shape body',
-' ignorance', 
+' small amount of likes', 
+' bad skin',
+' messy hair',
+' ugliness', 
 ' narcissism', 
 ' need to share everything',
 ' ugly hair',
-' ugly face',
+' messy hair',
 ' stupidity',
 ' dumb opinions',
 ' pointless posts', 
-' small popularity', 
-' small mounts of likes', 
+' ugliness', 
+' small amount of likes', 
 ' fat body',
 ' out of shape body',
 ' ignorance', 
-' narcissism', 
-' need to share everything', 
+' narcissism' 
 
 
  
@@ -93,16 +126,7 @@ var objects4 = [' !!!',
 ' lol',
 ' haha', 
 ' omg', 
-' , like totally', 
-' !!!',
-' , ewwww',
-' ugh',
-' lol',
-' haha', 
-' omg', 
-' , like totally',
-' omg', 
-' , like totally' 
+' , like totally'
 
 
                
@@ -111,13 +135,81 @@ var objects4 = [' !!!',
 var objects5 = ['I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I','I'
                
                ];
-var objects6 = [' adore',' admire',' worship',' absolutely love',' am obsessed with',' would die for',' want to see more of',' can not get enough of',' adore',' admire',' worship',' absolutely love',' am obsessed with',' would die for',' want to see more of',' can not get enough of',' adore',' admire',' worship',' absolutely love',' am obsessed with',' would die for',' want to see more of',' can not get enough of',' adore',' admire',' worship',' absolutely love',' am obsessed with',' would die for',' want to see more of',' can not get enough of',' adore',' admire',' worship',' absolutely love',' am obsessed with',' would die for',' want to see more of',' can not get enough of'
+var objects6 = [' adore',
+' admire',
+' worship',
+' absolutely love',
+' am obsessed with',
+' would die for',
+' want to see more of',
+' can not get enough of',
+' adore',
+' admire',
+' worship',
+' absolutely love',
+' am obsessed with',
+' would die for',
+' want to see more of',
+' can not get enough of',
+' adore',
+' admire',
+' worship',
+' absolutely love',
+' am obsessed with',
+' would die for',
+' want to see more of',
+' can not get enough of',
+' adore',
+' admire',
+' worship',
+' absolutely love',
+' am obsessed with',
+' would die for',
+' want to see more of',
+' can not get enough of',
+' adore',
+' admire',
+' worship'
                
                ];
 var objects7 = [' your', ' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your',' your'
                
                ];
-var objects8 = [' pretty face',' intelligence',' eloquence',' opinion',' thoughts',' words',' loveliness',' style',' class',' beauty',' pretty face',' intelligence',' eloquence',' opinion',' thoughts',' words',' loveliness',' style',' class',' beauty',' pretty face',' intelligence',' eloquence',' opinion',' thoughts',' words',' loveliness',' style',' class',' beauty',' pretty face',' intelligence',' eloquence',' opinion',' thoughts',' words',' loveliness',' style',' class',' beauty'
+var objects8 = [' pretty face',
+' intelligence',
+' eloquence',
+' opinion',
+' thoughts',
+' words',
+' loveliness',
+' style',
+' class',
+' beauty',
+' pretty face',
+' popularity',
+' charisma',
+' charm',
+' the way you dress',
+' active lifestyle',
+' how outspoken you are',
+' classiness',
+' class',
+' honesty',
+' vibe',
+' beautiful soul',
+' courage',
+' view on things',
+' taste',
+' model face',
+' loveliness',
+' style',
+' class',
+' beauty',
+' pretty face',
+' intelligence',
+' eloquence',
+' opinion',
+' thoughts'
                
                ];
 
@@ -155,16 +247,7 @@ var objects9 = [' !!!',
 ' lol',
 ' haha', 
 ' omg', 
-' , like totally', 
-' !!!',
-' , yaaas',
-' woah',
-' lol',
-' haha', 
-' omg', 
-' , like totally',
-' omg', 
-' , like totally' 
+' , like totally'
                
                ];
 
@@ -186,6 +269,8 @@ $('.start').click(function() {
 
 	$('.bar').prepend(status);
 	$('.namestat').prepend(name);
+
+
 
 
 });
